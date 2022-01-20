@@ -1,0 +1,16 @@
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\obj\Debug\net5.0\TesteAberto.csproj.AssemblyReference.cache
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\obj\Debug\net5.0\TesteAberto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\obj\Debug\net5.0\TesteAberto.AssemblyInfoInputs.cache
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\obj\Debug\net5.0\TesteAberto.AssemblyInfo.cs
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\obj\Debug\net5.0\TesteAberto.csproj.CoreCompileInputs.cache
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\bin\Debug\net5.0\TesteAberto.exe
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\bin\Debug\net5.0\TesteAberto.deps.json
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\bin\Debug\net5.0\TesteAberto.runtimeconfig.json
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\bin\Debug\net5.0\TesteAberto.runtimeconfig.dev.json
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\bin\Debug\net5.0\TesteAberto.dll
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\bin\Debug\net5.0\ref\TesteAberto.dll
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\bin\Debug\net5.0\TesteAberto.pdb
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\obj\Debug\net5.0\TesteAberto.dll
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\obj\Debug\net5.0\ref\TesteAberto.dll
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\obj\Debug\net5.0\TesteAberto.pdb
+C:\Users\gui_j\Desktop\Curso C#\TesteAberto\TesteAberto\obj\Debug\net5.0\TesteAberto.genruntimeconfig.cache
