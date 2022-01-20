@@ -1,0 +1,1 @@
+Codigo para resolução do teste da Aberto, feito em C#
